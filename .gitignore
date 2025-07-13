@@ -1,0 +1,15 @@
+# Hide this file with sensitive DB info
+application.properties
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore output from build
+target/
+
+# Ignore logs
+*.log
+
+# Ignore IntelliJ or Eclipse specific files
+.idea/
+*.iml
